@@ -6,3 +6,6 @@ Description: I did an indoor drumline and every week I had to submit a video ass
 2.) [The Tonight Cymbal](https://www.youtube.com/watch?v=n1FplNvGFKo)  
 3.) [Grip Change](www.youtube.com/watch?v=Cc7rhRJyo0Q&feature=youtu.be)  
 4.) [HNN News](https://www.youtube.com/watch?v=2F1Axdj4lk0)  
+
+
+**If you are keen on seeing more of my Audio Theater Videos star this Repository and I will add all videos**
