@@ -16,7 +16,9 @@ Description: I love 3D printing and I love to 3D print a lot of figures as well 
 
 ## Figures  
 
-1.) [Jasmine Print]()  
+1.) [Jasmine Print](https://github.com/Alec-Hudson24/Jasmine-3D-Print/blob/main/README.md)  
+
+<!--
 2.) [Beak and Barrel Parrot]()  
 3.) [Baymax]()  
 4.) [Sunny Eclipse]()  
