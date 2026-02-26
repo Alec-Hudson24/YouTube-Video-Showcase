@@ -9,7 +9,7 @@ Description: I did an indoor drumline and every week I had to submit a video ass
 
 
 *If you are keen on seeing more of my Audio Theater Videos star this Repository and I will add all videos*
-<!--
+
 # 3D Prints
 
 Description: I love 3D printing and I love to 3D print a lot of figures as well as helmets. I am using my 3D printer to work on my modeling skills as well as my artitic skills whether it is to make a part look like metal or weathering a part.
